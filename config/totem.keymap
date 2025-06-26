@@ -226,7 +226,7 @@
             bindings = <
        &kp R  &kp Q     &kp P      &kp E      &kp TAB      &kp TAB    &kp Q      &kp L      &kp E      &kp C
        &kp V  &kp LEFT  &kp UP     &kp RIGHT  &kp M        &kp M      &kp LEFT   &kp UP     &kp RIGHT  &kp T
-&kp G  &kp W  &kp A     &kp DOWN   &kp D      &kp S        &kp S      &kp A      &kp DOWN   &kp D      &kp W  &kp G
+&kp G  &kp W  &kp A     &kp DOWN   &kp D      &kp S        &kp W      &kp A      &kp DOWN   &kp D      &kp W  &kp SPACE
                         &kp ENTER  &kp LSHFT  &kp SPACE    &kp SPACE  &kp LSHFT  &kp ENTER
             >;
         };
