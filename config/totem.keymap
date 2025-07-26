@@ -233,10 +233,10 @@
 
         CSRIGHT {
             bindings = <
-        &trans  &trans  &trans  &trans  &trans    &kp NUMBER_2  &kp Q        &kp E  &kp R  &kp NUMBER_4
-        &trans  &trans  &trans  &trans  &trans    &kp NUMBER_1  &kp A        &kp W  &kp D  &kp G
-&trans  &trans  &trans  &trans  &trans  &trans    &kp LSHIFT    &kp F1       &kp S  &kp M  &kp LEFT_CONTROL  &kp SPACE
-                        &trans  &trans  &trans    &trans        &lt 2 ENTER  &kp B
+         &kp NUMBER_2    &kp Q   &kp E   &kp R             &kp NUMBER_4    &kp NUMBER_2  &kp Q        &kp E  &kp R  &kp NUMBER_4
+         &kp LEFT_SHIFT  &kp A   &kp W   &kp D             &kp G           &kp NUMBER_1  &kp A        &kp W  &kp D  &kp G
+&kp TAB  &kp NUMBER_1    &kp F1  &kp S   &kp M             &kp B           &kp LSHIFT    &kp F1       &kp S  &kp M  &kp LEFT_CONTROL  &kp SPACE
+                                 &trans  &kp LEFT_CONTROL  &kp SPACE       &trans        &lt 2 ENTER  &kp B
             >;
         };
     };
